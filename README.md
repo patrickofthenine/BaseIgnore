@@ -1,7 +1,5 @@
-# BaseIgnore
-
 #### Common Python and JavaScript ignoreables.
-##### This is just single file pulled from these sources:
+This is just single file pulled from these sources:
 
 
 * https://github.com/github/gitignore/blob/master/Python.gitignore
